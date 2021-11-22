@@ -1,4 +1,5 @@
 High level Requierments :
+
 ->Accuracy: The system shall record and count all the votes and shall do so correctly. 
 
 ->Uniqueness: No voter should be able to vote more than once. 
