@@ -4,10 +4,10 @@
 // candidate names 
 
 
-#define CANDIDATE1 "David Hull"
-#define CANDIDATE2 "Kristin Canella"
-#define CANDIDATE3 "Jim Brar"
-#define CANDIDATE4 "Donald Truimph"
+#define CANDIDATE1 "pruthvi"
+#define CANDIDATE2 "shikar"
+#define CANDIDATE3 "lakshmi sai"
+#define CANDIDATE4 "kohli"
 #define CANDIDATE5  "NARENDRA"
 #define CANDIDATE6  "siva"
 
