@@ -7,7 +7,8 @@ Behavioral Diagram:1
 Behavioral Diagram:2
 
 
-![image](https://user-images.githubusercontent.com/94212414/142966697-5c0ffb0b-4959-4cd8-87b7-388bfcd9c426.png)
+![image](https://user-images.githubusercontent.com/94212414/142966938-35a54cfb-feaf-47f1-a743-8f48cf041422.png)
+
 
 
 
