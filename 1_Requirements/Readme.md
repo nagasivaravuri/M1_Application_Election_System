@@ -61,6 +61,45 @@ People can vote at certian place where election takes place.
 ### HOW
 Voters can vote to the respected candidates where they can find leading candidates ,total vote count .If voters do not want to cast thier vote,they can cast thier vote to "NOTA".
 
+## SWOT Analysis
+
+---
+
+## STRENGTHS
+It is made up of a strong code .so that it continues as it created.
+
+## WEAKNESSES
+people cannot acces it from home .In order to vote one must go to the place where electionn is going.
+
+## OPORTUNITIES
+Giving right to vote to employees gives best oprtunities for them to understand about candidate.
+
+## THREATS
+people may missuse thier vote 
+
+## High Level Requirements
+
+---
+
+| HLR   | Description            |
+| ----- | ---------------------- |
+| HLR_1 | Easy to elect candidate|
+| HLR_2 | Easily counts the votes|
+| HLR_3 | Fast result decleration|
+
+## Low Level Requirements
+
+---
+
+| LLR    | Description                                         |
+| ------ | --------------------------------------------------- |
+| LLR_1  | check if user want to count or cast vote            |
+| LLR_2  | Do the operation of selection according to input    |
+| LLR_3  | user operation is secure                            |
+
+
+
+
 
 
 
