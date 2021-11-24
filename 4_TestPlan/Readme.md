@@ -19,14 +19,14 @@
 
 | TestID | Description                                         | Exp I/P       | Exp O/P                  | Actual O/P               | Type of Test      |
 | ------ | --------------------------------------------------- | ------------- | ------------------------ | ------------------------ | ----------------- |
-| L_01   | Finding leading candidate                           | 3             | warning no win sitution  | warning no win sitution  | Requirement Based |
+| L_01   | Finding leading candidate                           | 3             |Leading  candidate        | Leading candidate        | Requirement Based |
 | L_02   | when user wants to exit                             | 0             | Invalid choice           | Invalid choice           | Requirement Based |
 
-# WElCOME PAGE 
+# Welcome page 
 
 ![Screenshot (44)](https://user-images.githubusercontent.com/94212414/143289644-44044309-5140-476d-af13-ce57f49c4318.png)
 
-# undetermined option 
+# Undetermined option 
 
 ![Screenshot (48)](https://user-images.githubusercontent.com/94212414/143290977-beab4bdd-21cd-47b2-a6af-b7b6ccf5c83f.png)
 
