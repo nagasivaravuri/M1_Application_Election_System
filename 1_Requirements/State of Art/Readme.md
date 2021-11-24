@@ -1,1 +1,0 @@
-Voting is required for every one now a days.many in this country are missusing thier votes by expecting something from the others.so it is better to vote for a persion if he/she meets certain requrements .
