@@ -66,4 +66,3 @@ clean:
 	$(RM) *.gcda
 	$(RM) *.gcno
 	$(RM) *.gcov
-
